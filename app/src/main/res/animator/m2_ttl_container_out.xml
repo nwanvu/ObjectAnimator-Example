@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:ordering="sequentially" >
+
+    <objectAnimator
+        android:duration="@integer/ttl_container_out"
+        android:propertyName="translationX"
+        android:valueFrom="0"
+        android:valueTo="@dimen/ttl_container_width_l"
+        android:valueType="floatType" />
+
+</set>

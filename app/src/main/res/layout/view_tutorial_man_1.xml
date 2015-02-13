@@ -1,0 +1,126 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <View
+        android:id="@+id/w1_ttlContainer"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ttl_container_height"
+        android:layout_alignParentBottom="true"
+        android:alpha="1"
+        android:background="#79c4d2"
+        android:orientation="vertical" />
+
+    <ImageView
+        android:id="@+id/phone1"
+        android:layout_width="@dimen/w1_phone1_width"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/w1_ttlContainer"
+        android:layout_marginLeft="@dimen/w1_phone_margin"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img01" />
+
+    <ImageView
+        android:id="@+id/img1"
+        android:layout_width="@dimen/w1_img_width"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/phone1"
+        android:layout_alignLeft="@+id/phone1"
+        android:layout_marginBottom="-35dp"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img03" />
+
+    <ImageView
+        android:id="@+id/img2"
+        android:layout_width="@dimen/w1_img_width"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/phone1"
+        android:layout_marginBottom="-10dp"
+        android:layout_marginLeft="@dimen/w1_img2_margin_left"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img04" />
+
+    <ImageView
+        android:id="@+id/img3"
+        android:layout_width="@dimen/w1_img_width"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/phone1"
+        android:layout_marginBottom="-30dp"
+        android:layout_marginLeft="-35dp"
+        android:layout_toRightOf="@+id/phone1"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img05" />
+
+    <ImageView
+        android:id="@+id/img4"
+        android:layout_width="@dimen/w1_img_width"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/phone1"
+        android:layout_marginLeft="-10dp"
+        android:layout_marginTop="40dp"
+        android:layout_toRightOf="@+id/phone1"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img06" />
+
+    <ImageView
+        android:id="@+id/phone2"
+        android:layout_width="@dimen/w1_phone2_width"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/w1_ttlContainer"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="@dimen/w1_phone_margin"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img02" />
+
+    <ImageView
+        android:id="@+id/imgPopup"
+        android:layout_width="@dimen/w1_tip_width"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/phone2"
+        android:layout_marginRight="@dimen/w1_tip_margin_right"
+        android:layout_marginTop="@dimen/w1_tip_margin_top"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_img07" />
+
+    <ImageView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/w1_ttlContainer"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="35dp"
+        android:layout_marginRight="35dp"
+        android:layout_marginTop="25dp"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_ttl01" />
+
+    <ImageView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/text1"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_01_ttl02" />
+
+</RelativeLayout>

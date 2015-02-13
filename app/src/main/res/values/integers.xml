@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="zoom_1_duration_alpha">400</integer>
+    <integer name="zoom_2_duration_alpha">500</integer>
+    <integer name="zoom_3_duration_alpha">600</integer>
+    <integer name="zoom_4_duration_alpha">700</integer>
+    <integer name="zoom_5_duration_alpha">800</integer>
+    <integer name="zoom_duration">600</integer>
+    <integer name="translation_duration">500</integer>
+    <integer name="translation_text_2_duration_alpha">100</integer>
+    <integer name="translation_phone_2_duration_alpha">1000</integer>
+    <integer name="revert_duration">600</integer>
+    <integer name="translation_phone_duration">800</integer>
+    <integer name="ttl_container_out">300</integer>
+
+    <!-- T3 -->
+    <integer name="t3_duration">300</integer>
+
+    <!-- T4 -->
+    <integer name="t4_img_out">300</integer>
+
+</resources>

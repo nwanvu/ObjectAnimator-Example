@@ -1,0 +1,55 @@
+<resources>
+
+    <dimen name="login_image_margin">25dp</dimen>
+    <dimen name="login_text_margin">40dp</dimen>
+    <dimen name="ttl_container_width_l">-540dp</dimen>
+    <dimen name="ttl_container_width_r">540dp</dimen>
+    <dimen name="ttl_container_height">240dp</dimen>
+    <dimen name="screen_trans_height">960dp</dimen>
+
+    <!-- w1 -->
+    <dimen name="w1_phone1_width">325dp</dimen>
+    <dimen name="w1_phone2_width">230dp</dimen>
+    <dimen name="w1_phone_margin">40dp</dimen>
+    <dimen name="w1_img_width">100dp</dimen>
+    <dimen name="w1_img2_margin_left">185dp</dimen>
+    <dimen name="w1_tip_width">300dp</dimen>
+    <dimen name="w1_tip_margin_top">60dp</dimen>
+    <dimen name="w1_tip_margin_right">30dp</dimen>
+
+    <!-- w2 -->
+	<dimen name="w2_img2_width">140dp</dimen>
+	<dimen name="w2_img3_width">169dp</dimen>
+	<dimen name="w2_img23_margin_bottom">220dp</dimen>
+
+    <!-- w3 -->
+    <dimen name="w3_img_padding_vertial">5dp</dimen>
+    <dimen name="w3_img_padding_horizontal">5dp</dimen>
+    <dimen name="w3_img_width">230dp</dimen>
+    <dimen name="w3_img_height">325dp</dimen>
+    <dimen name="w3_img2_height">272dp</dimen>
+    <dimen name="w3_img4_width">90dp</dimen>
+    <dimen name="w3_tip_width">70dp</dimen>
+    <dimen name="w3_ttl_margin">140dp</dimen>
+
+    <!-- w4 -->
+    <dimen name="w4_img_padding_vertial">15dp</dimen>
+    <dimen name="w4_img_padding_horizontal">15dp</dimen>
+    <dimen name="w4_img_width">220dp</dimen>
+    <dimen name="w4_img_height">181dp</dimen>
+    <dimen name="w4_tip_1_margin_left">60dp</dimen>
+    <dimen name="w4_tip_1_margin_top">-35dp</dimen>
+    <dimen name="w4_tip_2_margin_left">-65dp</dimen>
+    <dimen name="w4_tip_2_margin_top">-15dp</dimen>
+    <dimen name="w4_tip_width">190dp</dimen>
+
+    <!-- translation -->
+    <dimen name="w4_img_trans_1_2">-400dp</dimen>
+    <dimen name="w4_img_trans_3_4">-220dp</dimen>
+    <dimen name="w4_img_trans_5_6">-170dp</dimen>
+    
+    <dimen name="m4_tip_width">170dp</dimen>
+    <dimen name="m4_tip_margin_top">-45dp</dimen>
+    <dimen name="m4_img_margin">40dp</dimen>
+     <dimen name="touch_view_margin_bottom">50dp</dimen>
+</resources>

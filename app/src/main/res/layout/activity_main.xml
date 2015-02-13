@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ebebeb" >
+
+    <include layout="@layout/view_tutorial_man_4" />
+
+    <include layout="@layout/view_tutorial_man_3" />
+
+    <include layout="@layout/view_tutorial_man_2" />
+
+    <include layout="@layout/view_tutorial_man_1" />
+
+    <View
+        android:id="@+id/touchView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="0dp" />
+
+    <RadioGroup
+        android:id="@+id/cbIndicator"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="20dp"
+        android:checkedButton="@+id/cb_w1"
+        android:clickable="false"
+        android:orientation="horizontal" >
+
+        <RadioButton
+            android:id="@+id/cb_w1"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/tutorial_indicator"
+            android:button="@null"
+            android:clickable="false" />
+
+        <RadioButton
+            android:id="@+id/cb_w2"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/tutorial_indicator"
+            android:button="@null"
+            android:clickable="false" />
+
+        <RadioButton
+            android:id="@+id/cb_w3"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/tutorial_indicator"
+            android:button="@null"
+            android:clickable="false" />
+
+        <RadioButton
+            android:id="@+id/cb_w4"
+            android:layout_width="8dp"
+            android:layout_height="8dp"
+            android:background="@drawable/tutorial_indicator"
+            android:button="@null"
+            android:clickable="false" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_margin="10dp"
+        android:text="play"
+        android:visibility="gone" />
+
+</RelativeLayout>

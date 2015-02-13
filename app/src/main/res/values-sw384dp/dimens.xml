@@ -1,0 +1,46 @@
+<resources>
+    <dimen name="login_image_margin">19.2dp</dimen>
+    <dimen name="app_list_icon_margin_right">28dp</dimen>
+    <dimen name="login_text_margin">30dp</dimen>
+    
+    <dimen name="ttl_container_width_l">-384dp</dimen>
+    <dimen name="ttl_container_width_r">384dp</dimen>
+    <dimen name="ttl_container_height">184dp</dimen>
+    <dimen name="screen_trans_height">640dp</dimen>
+    
+    <!-- w2 -->
+	<dimen name="w2_img2_width">74dp</dimen>
+	<dimen name="w2_img3_width">103dp</dimen>
+	<dimen name="w2_img23_margin_bottom">140dp</dimen>
+
+    <!-- w3 -->
+    <dimen name="w3_img_padding_vertial">5dp</dimen>
+    <dimen name="w3_img_padding_horizontal">5dp</dimen>
+    <dimen name="w3_img_width">140dp</dimen>
+    <dimen name="w3_img_height">198dp</dimen>
+    <dimen name="w3_img2_height">166dp</dimen>
+    <dimen name="w3_img4_width">65dp</dimen>
+    <dimen name="w3_tip_width">45dp</dimen>
+    <dimen name="w3_ttl_margin">120dp</dimen>
+
+    <!-- w4 -->
+    <dimen name="w4_img_padding_vertial">8dp</dimen>
+    <dimen name="w4_img_padding_horizontal">10dp</dimen>
+    <dimen name="w4_img_width">145dp</dimen>
+    <dimen name="w4_img_height">121dp</dimen>
+    <dimen name="w4_tip_1_margin_left">40dp</dimen>
+    <dimen name="w4_tip_1_margin_top">-25dp</dimen>
+    <dimen name="w4_tip_2_margin_left">-50dp</dimen>
+    <dimen name="w4_tip_2_margin_top">-8dp</dimen>
+    <dimen name="w4_tip_width">135dp</dimen>
+
+    <!-- translation -->
+    <dimen name="w4_img_trans_1_2">-400dp</dimen>
+    <dimen name="w4_img_trans_3_4">-220dp</dimen>
+    <dimen name="w4_img_trans_5_6">-170dp</dimen>
+    
+    <dimen name="m4_tip_width">105dp</dimen>
+    <dimen name="m4_tip_margin_top">-27dp</dimen>
+    <dimen name="m4_img_margin">25dp</dimen>
+     <dimen name="touch_view_margin_bottom">45dp</dimen>
+</resources>

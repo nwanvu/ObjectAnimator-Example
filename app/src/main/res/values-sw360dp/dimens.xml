@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Man My page -->
+    <dimen name="sticking_margin_left">10dp</dimen>
+    <dimen name="sticking_margin_top_bottom">13dp</dimen>
+    <dimen name="login_image_margin">18dp</dimen>
+    <dimen name="login_text_margin">50dp</dimen>
+    <dimen name="ttl_container_width_l">-360dp</dimen>
+    <dimen name="ttl_container_width_r">360dp</dimen>
+    <dimen name="ttl_container_height">184dp</dimen>
+    <dimen name="screen_trans_height">640dp</dimen>
+
+    <!-- w1 -->
+    <dimen name="w1_phone1_width">205dp</dimen>
+    <dimen name="w1_phone2_width">140dp</dimen>
+    <dimen name="w1_phone_margin">35dp</dimen>
+    <dimen name="w1_img_width">70dp</dimen>
+    <dimen name="w1_img2_margin_left">120dp</dimen>
+    <dimen name="w1_tip_width">210dp</dimen>
+    <dimen name="w1_tip_margin_top">30dp</dimen>
+    <dimen name="w1_tip_margin_right">25dp</dimen>
+
+    <!-- w2 -->
+	<dimen name="w2_img2_width">74dp</dimen>
+	<dimen name="w2_img3_width">103dp</dimen>
+	<dimen name="w2_img23_margin_bottom">120dp</dimen>
+	
+    <!-- w3 -->
+    <dimen name="w3_img_padding_vertial">5dp</dimen>
+    <dimen name="w3_img_padding_horizontal">5dp</dimen>
+    <dimen name="w3_img_width">140dp</dimen>
+    <dimen name="w3_img_height">198dp</dimen>
+    <dimen name="w3_img2_height">166dp</dimen>
+    <dimen name="w3_img4_width">65dp</dimen>
+    <dimen name="w3_tip_width">45dp</dimen>
+    <dimen name="w3_ttl_margin">110dp</dimen>
+
+    <!-- w4 -->
+    <dimen name="w4_img_padding_vertial">8dp</dimen>
+    <dimen name="w4_img_padding_horizontal">10dp</dimen>
+    <dimen name="w4_img_width">150dp</dimen>
+    <dimen name="w4_img_height">126dp</dimen>
+    <dimen name="w4_tip_1_margin_left">50dp</dimen>
+    <dimen name="w4_tip_1_margin_top">-20dp</dimen>
+    <dimen name="w4_tip_2_margin_left">-45dp</dimen>
+    <dimen name="w4_tip_2_margin_top">-10dp</dimen>
+    <dimen name="w4_tip_width">118dp</dimen>
+
+    <!-- translation -->
+    <dimen name="w4_img_trans_1_2">-400dp</dimen>
+    <dimen name="w4_img_trans_3_4">-220dp</dimen>
+    <dimen name="w4_img_trans_5_6">-170dp</dimen>
+
+    <dimen name="m4_tip_width">90dp</dimen>
+    <dimen name="m4_tip_margin_top">-23dp</dimen>
+    <dimen name="m4_img_margin">25dp</dimen>
+    
+    <dimen name="touch_view_margin_bottom">60dp</dimen>
+</resources>

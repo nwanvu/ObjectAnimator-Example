@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/w2_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <View
+        android:id="@+id/w2_ttlContainer"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/ttl_container_height"
+        android:layout_alignParentBottom="true"
+        android:background="#8EC67f"
+        android:orientation="vertical" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/w2_ttlContainer" >
+
+        <ImageView
+            android:id="@+id/w2_img1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginLeft="@dimen/m4_img_margin"
+            android:layout_marginRight="@dimen/m4_img_margin"
+            android:layout_marginTop="@dimen/m4_img_margin"
+            android:adjustViewBounds="true"
+            android:alpha="0"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/m_tutorial_02_img01" />
+
+        <ImageView
+            android:id="@+id/w2_img2"
+            android:layout_width="@dimen/w2_img3_width"
+            android:layout_height="@dimen/w2_img3_width"
+            android:layout_alignLeft="@+id/w2_img1"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="@dimen/w2_img23_margin_bottom"
+            android:layout_marginLeft="-5dp"
+            android:adjustViewBounds="true"
+            android:alpha="0"
+            android:contentDescription="@string/app_name"
+            android:padding="10dp"
+            android:src="@drawable/m_tutorial_02_img02" />
+
+        <ImageView
+            android:id="@+id/w2_img3"
+            android:layout_width="@dimen/w2_img3_width"
+            android:layout_height="@dimen/w2_img3_width"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/w2_img1"
+            android:layout_marginBottom="@dimen/w2_img23_margin_bottom"
+            android:layout_marginRight="-20dp"
+            android:adjustViewBounds="true"
+            android:alpha="0"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/m_tutorial_02_img03" />
+
+        <ImageView
+            android:id="@+id/w2_img4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/w2_img1"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/w2_img1"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:adjustViewBounds="true"
+            android:alpha="0"
+            android:contentDescription="@string/app_name"
+            android:src="@drawable/m_tutorial_02_img04" />
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/w2_ttl01"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/w2_ttlContainer"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"
+        android:layout_marginTop="25dp"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_02_ttl01" />
+
+    <ImageView
+        android:id="@+id/w2_ttl02"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/w2_ttl01"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:adjustViewBounds="true"
+        android:alpha="0"
+        android:contentDescription="@string/app_name"
+        android:src="@drawable/m_tutorial_02_ttl02" />
+
+</RelativeLayout>
