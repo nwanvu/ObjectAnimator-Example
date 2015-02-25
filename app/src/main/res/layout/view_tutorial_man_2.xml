@@ -1,5 +1,4 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/w2_container"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
@@ -19,7 +18,7 @@
 
         <ImageView
             android:id="@+id/w2_img1"
-            android:layout_width="match_parent"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
             android:layout_centerHorizontal="true"
@@ -36,25 +35,23 @@
             android:layout_width="@dimen/w2_img3_width"
             android:layout_height="@dimen/w2_img3_width"
             android:layout_alignLeft="@+id/w2_img1"
-            android:layout_alignParentBottom="true"
-            android:layout_marginBottom="@dimen/w2_img23_margin_bottom"
-            android:layout_marginLeft="-5dp"
+            android:layout_above="@+id/w2_img4"
             android:adjustViewBounds="true"
             android:alpha="0"
             android:contentDescription="@string/app_name"
-            android:padding="10dp"
+            android:paddingTop="25dp"
+            android:layout_marginBottom="-2dp"
             android:src="@drawable/m_tutorial_02_img02" />
 
         <ImageView
             android:id="@+id/w2_img3"
             android:layout_width="@dimen/w2_img3_width"
             android:layout_height="@dimen/w2_img3_width"
-            android:layout_alignParentBottom="true"
             android:layout_alignRight="@+id/w2_img1"
-            android:layout_marginBottom="@dimen/w2_img23_margin_bottom"
-            android:layout_marginRight="-20dp"
+            android:layout_above="@+id/w2_img4"
             android:adjustViewBounds="true"
             android:alpha="0"
+            android:paddingTop="20dp"
             android:contentDescription="@string/app_name"
             android:src="@drawable/m_tutorial_02_img03" />
 
@@ -74,19 +71,21 @@
             android:src="@drawable/m_tutorial_02_img04" />
     </RelativeLayout>
 
-    <ImageView
+    <TextView
         android:id="@+id/w2_ttl01"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignTop="@+id/w2_ttlContainer"
         android:layout_marginBottom="20dp"
-        android:layout_marginLeft="45dp"
-        android:layout_marginRight="45dp"
-        android:layout_marginTop="25dp"
-        android:adjustViewBounds="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="16dp"
+        android:textSize="26sp"
         android:alpha="0"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_02_ttl01" />
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:text="@string/m2_text_1"/>
 
     <ImageView
         android:id="@+id/w2_ttl02"

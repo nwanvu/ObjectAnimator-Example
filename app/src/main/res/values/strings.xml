@@ -9,5 +9,8 @@
     <string name="author">AUTHOR</string>
     <string name="source">SOURCE</string>
     <string name="source_url">https://github.com/nwanvu/ObjectAnimator-Example</string>
+    <string name="explore">EXPLORE</string>
+    <string name="m1_text_1">Willfully Approach!</string>
+    <string name="m2_text_1">Approach From The Girls!</string>
 
 </resources>

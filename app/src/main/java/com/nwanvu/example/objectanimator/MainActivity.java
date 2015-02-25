@@ -332,15 +332,6 @@ public class MainActivity extends ActionBarActivity implements View.OnTouchListe
                 cbIndicator.check(R.id.cb_w1);
             }
         }, 100);
-
-        findViewById(R.id.woman_ani_4_button).setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                if (currentPage == 4 && touchAllow) {
-                    finish();
-                }
-            }
-        });
     }
 
     private void selectedPage(int page) {

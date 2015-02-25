@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent" >
+    android:layout_height="match_parent">
 
     <RelativeLayout
         android:layout_width="wrap_content"
@@ -10,7 +10,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginLeft="@dimen/m4_img_margin"
-        android:layout_marginRight="@dimen/m4_img_margin" >
+        android:layout_marginRight="@dimen/m4_img_margin">
 
         <ImageView
             android:id="@+id/m4_img5"
@@ -130,17 +130,24 @@
         android:contentDescription="@string/app_name"
         android:src="@drawable/m_tutorial_04_ttl02" />
 
-    <ImageView
+    <TextView
         android:id="@+id/woman_ani_4_button"
-        android:layout_width="match_parent"
-        android:layout_height="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:layout_below="@+id/woman_ani_4_text2"
+        android:layout_centerHorizontal="true"
         android:layout_marginLeft="30dp"
         android:layout_marginRight="30dp"
         android:layout_marginTop="15dp"
-        android:adjustViewBounds="true"
         android:alpha="1"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_04_ttl03" />
+        android:background="@drawable/btn_bg"
+        android:paddingBottom="5dp"
+        android:paddingLeft="40dp"
+        android:paddingRight="40dp"
+        android:paddingTop="5dp"
+        android:text="@string/explore"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:textStyle="bold" />
 
 </RelativeLayout>

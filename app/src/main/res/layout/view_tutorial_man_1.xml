@@ -106,12 +106,12 @@
         android:layout_marginLeft="35dp"
         android:layout_marginRight="35dp"
         android:layout_marginTop="16dp"
-        android:textSize="30sp"
+        android:textSize="26sp"
         android:alpha="0"
         android:gravity="center"
         android:textStyle="bold"
         android:textColor="@android:color/white"
-        android:text="Willfully Approach!"/>
+        android:text="@string/m1_text_1"/>
 
     <ImageView
         android:id="@+id/text2"

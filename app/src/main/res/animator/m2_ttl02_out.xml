@@ -4,7 +4,7 @@
 
     <set android:ordering="together" >
         <objectAnimator
-            android:duration="@integer/translation_duration"
+            android:duration="@integer/ttl_container_out"
             android:propertyName="alpha"
             android:valueFrom="1"
             android:valueTo="0" />
