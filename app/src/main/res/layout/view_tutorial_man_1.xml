@@ -97,7 +97,7 @@
         android:contentDescription="@string/app_name"
         android:src="@drawable/m_tutorial_01_img07" />
 
-    <ImageView
+    <TextView
         android:id="@+id/text1"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -105,11 +105,13 @@
         android:layout_marginBottom="20dp"
         android:layout_marginLeft="35dp"
         android:layout_marginRight="35dp"
-        android:layout_marginTop="25dp"
-        android:adjustViewBounds="true"
+        android:layout_marginTop="16dp"
+        android:textSize="30sp"
         android:alpha="0"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_01_ttl01" />
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@android:color/white"
+        android:text="Willfully Approach!"/>
 
     <ImageView
         android:id="@+id/text2"
