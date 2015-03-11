@@ -113,16 +113,19 @@
         android:textColor="@android:color/white"
         android:text="@string/m1_text_1"/>
 
-    <ImageView
+    <TextView
         android:id="@+id/text2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/text1"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:adjustViewBounds="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="26sp"
+        android:maxLines="3"
+        android:ellipsize="end"
         android:alpha="0"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_01_ttl02" />
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:text="@string/m2_text_1"/>
 
 </RelativeLayout>

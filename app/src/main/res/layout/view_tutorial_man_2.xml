@@ -62,7 +62,7 @@
             android:layout_alignLeft="@+id/w2_img1"
             android:layout_alignParentBottom="true"
             android:layout_alignRight="@+id/w2_img1"
-            android:layout_marginBottom="2dp"
+            android:layout_marginBottom="15dp"
             android:layout_marginLeft="20dp"
             android:layout_marginRight="20dp"
             android:adjustViewBounds="true"
@@ -85,18 +85,20 @@
         android:gravity="center"
         android:textStyle="bold"
         android:textColor="@android:color/white"
-        android:text="@string/m2_text_1"/>
+        android:text="@string/m1_text_2"/>
 
-    <ImageView
+    <TextView
         android:id="@+id/w2_ttl02"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/w2_ttl01"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:adjustViewBounds="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:textSize="26sp"
+        android:maxLines="3"
+        android:ellipsize="end"
         android:alpha="0"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_02_ttl02" />
-
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:text="@string/m2_text_1"/>
 </RelativeLayout>

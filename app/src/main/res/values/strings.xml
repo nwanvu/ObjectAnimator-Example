@@ -10,7 +10,10 @@
     <string name="source">SOURCE</string>
     <string name="source_url">https://github.com/nwanvu/ObjectAnimator-Example</string>
     <string name="explore">EXPLORE</string>
-    <string name="m1_text_1">Willfully Approach!</string>
-    <string name="m2_text_1">Approach From The Girls!</string>
+    <string name="m1_text_1">TITLE PAGE 1!</string>
+    <string name="m1_text_2">TITLE PAGE 2!</string>
+    <string name="m1_text_3">TITLE PAGE 3!</string>
+    <string name="m1_text_4">TITLE PAGE 4!</string>
+    <string name="m2_text_1">Content here content here content here content here content here content here content here!</string>
 
 </resources>

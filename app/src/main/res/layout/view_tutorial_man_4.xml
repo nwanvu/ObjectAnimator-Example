@@ -104,31 +104,36 @@
         android:layout_alignParentBottom="true"
         android:background="#FFB877" />
 
-    <ImageView
+    <TextView
         android:id="@+id/woman_ani_4_text1"
         android:layout_width="match_parent"
-        android:layout_height="20dp"
+        android:layout_height="wrap_content"
         android:layout_alignTop="@+id/m4_ttlContainer"
         android:layout_marginBottom="15dp"
         android:layout_marginLeft="35dp"
         android:layout_marginRight="35dp"
         android:layout_marginTop="20dp"
-        android:adjustViewBounds="true"
         android:alpha="0"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_04_ttl01" />
+        android:gravity="center"
+        android:text="@string/m1_text_4"
+        android:textColor="@android:color/white"
+        android:textSize="26sp"
+        android:textStyle="bold" />
 
-    <ImageView
+    <TextView
         android:id="@+id/woman_ani_4_text2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/woman_ani_4_text1"
-        android:layout_marginLeft="30dp"
-        android:layout_marginRight="30dp"
-        android:adjustViewBounds="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
         android:alpha="0"
-        android:contentDescription="@string/app_name"
-        android:src="@drawable/m_tutorial_04_ttl02" />
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxLines="3"
+        android:text="@string/m2_text_1"
+        android:textColor="@android:color/white"
+        android:textSize="26sp" />
 
     <TextView
         android:id="@+id/woman_ani_4_button"
@@ -149,5 +154,4 @@
         android:textColor="@android:color/white"
         android:textSize="18sp"
         android:textStyle="bold" />
-
 </RelativeLayout>
