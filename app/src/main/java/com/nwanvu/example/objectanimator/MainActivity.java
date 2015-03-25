@@ -3,19 +3,17 @@ package com.nwanvu.example.objectanimator;
 import android.animation.Animator;
 import android.animation.AnimatorInflater;
 import android.animation.AnimatorSet;
+import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v7.app.ActionBarActivity;
-import android.view.Menu;
-import android.view.MenuItem;
 import android.view.MotionEvent;
 import android.view.VelocityTracker;
 import android.view.View;
 import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 
-public class MainActivity extends ActionBarActivity implements View.OnTouchListener{
+public class MainActivity extends Activity implements View.OnTouchListener{
 
     private static final float MIN_VELOCITY = 200;
     int currentPage = 1;
@@ -26,6 +24,7 @@ public class MainActivity extends ActionBarActivity implements View.OnTouchListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         findView();
 
 		/*
@@ -466,8 +465,6 @@ public class MainActivity extends ActionBarActivity implements View.OnTouchListe
 
         @Override
         public void onAnimationStart(Animator animation) {
-            // TODO Auto-generated method stub
-
         }
 
         @Override
@@ -594,28 +591,12 @@ public class MainActivity extends ActionBarActivity implements View.OnTouchListe
     private void findView() {
         cbIndicator = (RadioGroup) findViewById(R.id.cbIndicator);
         findViewById(R.id.touchView).setOnTouchListener(this);
-    }
-
-    @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        //noinspection SimplifiableIfStatement
-        if (id == R.id.action_settings) {
-            startActivity(new Intent(this, AboutActivity.class));
-            return true;
-        }
-
-        return super.onOptionsItemSelected(item);
-    }
-
-    @Override
-    public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.menu_main, menu);
-        return true;
+        findViewById(R.id.btnAbout).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, AboutActivity.class));
+            }
+        });
     }
 
     private AnimatorSet w1_img3_in;

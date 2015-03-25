@@ -23,38 +23,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b93e77a-a793-46b0-b31f-88eb36e2ca29" name="Default" comment="">
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_01_ttl02.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_02_ttl02.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_03_img03.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_03_ttl01.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_03_ttl02.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_04_ttl01.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-nodpi\m_tutorial_04_ttl02.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img01.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img02.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img03.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img04.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img05.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img06.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img07.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_02_img01.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_02_img01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_02_img02.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_02_img02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_02_img03.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_02_img03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_03_img01.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_03_img01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_03_img02.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_03_img02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img01.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img01.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img02.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img02.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img03.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img03.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img04.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img04.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img05.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img05.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img06.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img06.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img07.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_04_img07.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
+      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\drawable-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\Android\ObjectAnimator-Example\app\src\main\res\menu\menu_main.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_1.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_2.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_3.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_3.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_4.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_4.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ObjectAnimationExample.iws" />
@@ -77,53 +61,7 @@
     <favorites_list name="ObjectAnimationExample" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="MainActivity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="5712" max-vertical-offset="11781">
-              <caret line="352" column="52" selection-start-line="352" selection-start-column="52" selection-end-line="352" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="view_tutorial_man_4.xml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_4.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.67118645" vertical-offset="2272" max-vertical-offset="2754">
-              <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-              <folding>
-                <element signature="e#484#506#0" expanded="true" />
-                <element signature="e#542#564#0" expanded="true" />
-                <element signature="e#882#900#0" expanded="true" />
-                <element signature="e#1249#1280#0" expanded="true" />
-                <element signature="e#1394#1412#0" expanded="true" />
-                <element signature="e#1757#1788#0" expanded="true" />
-                <element signature="e#1826#1857#0" expanded="true" />
-                <element signature="e#1971#1989#0" expanded="true" />
-                <element signature="e#2292#2323#0" expanded="true" />
-                <element signature="e#2437#2455#0" expanded="true" />
-                <element signature="e#2831#2849#0" expanded="true" />
-                <element signature="e#3032#3053#0" expanded="true" />
-                <element signature="e#3242#3268#0" expanded="true" />
-                <element signature="e#3382#3400#0" expanded="true" />
-                <element signature="e#3561#3582#0" expanded="true" />
-                <element signature="e#3771#3797#0" expanded="true" />
-                <element signature="e#3911#3929#0" expanded="true" />
-                <element signature="e#4159#4188#0" expanded="true" />
-                <element signature="e#4726#4745#0" expanded="true" />
-                <element signature="e#5289#5308#0" expanded="true" />
-                <element signature="e#5999#6016#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -1214,21 +1152,21 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/AboutActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_about.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/tutorial_indicator.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/drawable/btn_bg.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/animator/m2_ttl02_out.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/animator/m2_ttl01_out.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_1.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_2.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_3.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_4.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_1.xml" />
       </list>
     </option>
   </component>
@@ -1264,7 +1202,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
@@ -1273,23 +1210,9 @@
               <option name="myItemId" value="ObjectAnimationExample" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ObjectAnimationExample" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderTypeNode" />
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1334,8 +1257,23 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ObjectAnimationExample" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -1351,7 +1289,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="LGD8558c068020" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="80A354043046918001" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="OverrideImplement.combined" value="true" />
@@ -1494,7 +1432,7 @@
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="true" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
       <option name="USE_COMMAND_LINE" value="true" />
       <option name="COMMAND_LINE" value="" />
@@ -1521,6 +1459,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1539,18 +1482,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1568,6 +1510,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32850242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3292683" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1644,9 +1587,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="476">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#278#296#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1689,9 +1630,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="476">
           <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-          <folding>
-            <element signature="e#278#296#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1745,16 +1684,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14731368" vertical-offset="0" max-vertical-offset="577">
-          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
-          <folding>
-            <element signature="e#299#324#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/AboutActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35355285" vertical-offset="0" max-vertical-offset="577">
@@ -1778,16 +1707,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32409012" vertical-offset="0" max-vertical-offset="595">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-          <folding>
-            <element signature="e#278#296#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi/m_tutorial_01_img04.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -1805,24 +1724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.35355285" vertical-offset="0" max-vertical-offset="577">
           <caret line="12" column="48" selection-start-line="12" selection-start-column="48" selection-end-line="12" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="1394">
-          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48627" vertical-offset="0" max-vertical-offset="874">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1926,66 +1827,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="442">
-          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.28" vertical-offset="115" max-vertical-offset="425">
-          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_1.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30847457" vertical-offset="1864" max-vertical-offset="2312">
-          <caret line="115" column="4" selection-start-line="115" selection-start-column="4" selection-end-line="128" selection-end-column="42" />
-          <folding>
-            <element signature="e#285#314#0" expanded="true" />
-            <element signature="e#546#570#0" expanded="true" />
-            <element signature="e#702#726#0" expanded="true" />
-            <element signature="e#1430#1451#0" expanded="true" />
-            <element signature="e#1618#1646#0" expanded="true" />
-            <element signature="e#2392#2413#0" expanded="true" />
-            <element signature="e#2887#2911#0" expanded="true" />
-            <element signature="e#3371#3392#0" expanded="true" />
-            <element signature="e#3566#3594#0" expanded="true" />
-            <element signature="e#3628#3654#0" expanded="true" />
-            <element signature="e#3756#3774#0" expanded="true" />
-            <element signature="e#4381#4400#0" expanded="true" />
-            <element signature="e#4886#4905#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.1152543" vertical-offset="1405" max-vertical-offset="1853">
           <caret line="102" column="42" selection-start-line="89" selection-start-column="0" selection-end-line="102" selection-end-column="42" />
           <folding>
-            <element signature="e#319#348#0" expanded="true" />
-            <element signature="e#936#958#0" expanded="true" />
-            <element signature="e#998#1020#0" expanded="true" />
-            <element signature="e#1058#1080#0" expanded="true" />
-            <element signature="e#1194#1212#0" expanded="true" />
-            <element signature="e#1363#1385#0" expanded="true" />
-            <element signature="e#1420#1442#0" expanded="true" />
-            <element signature="e#1656#1674#0" expanded="true" />
-            <element signature="e#1910#1932#0" expanded="true" />
-            <element signature="e#1967#1989#0" expanded="true" />
-            <element signature="e#2242#2260#0" expanded="true" />
-            <element signature="e#2883#2901#0" expanded="true" />
-            <element signature="e#3537#3556#0" expanded="true" />
-            <element signature="e#4048#4067#0" expanded="true" />
+            <element signature="e#319#348#0" expanded="false" />
+            <element signature="e#936#958#0" expanded="false" />
+            <element signature="e#998#1020#0" expanded="false" />
+            <element signature="e#1058#1080#0" expanded="false" />
+            <element signature="e#1194#1212#0" expanded="false" />
+            <element signature="e#1363#1385#0" expanded="false" />
+            <element signature="e#1420#1442#0" expanded="false" />
+            <element signature="e#1656#1674#0" expanded="false" />
+            <element signature="e#1910#1932#0" expanded="false" />
+            <element signature="e#1967#1989#0" expanded="false" />
+            <element signature="e#2242#2260#0" expanded="false" />
+            <element signature="e#2883#2901#0" expanded="false" />
+            <element signature="e#3537#3556#0" expanded="false" />
+            <element signature="e#4048#4067#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1998,8 +1858,87 @@
         <state vertical-scroll-proportion="0.0779661" vertical-offset="2442" max-vertical-offset="2805">
           <caret line="145" column="3" selection-start-line="145" selection-start-column="3" selection-end-line="158" selection-end-column="42" />
           <folding>
-            <element signature="e#6510#6529#0" expanded="true" />
+            <element signature="e#6510#6529#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_4.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2158" max-vertical-offset="2754">
+          <caret line="138" column="20" selection-start-line="138" selection-start-column="20" selection-end-line="138" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1292" max-vertical-offset="1547">
+          <caret line="76" column="33" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11467116" vertical-offset="0" max-vertical-offset="593">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="593">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="527">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values-sw320dp/dimens.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.089788735" vertical-offset="0" max-vertical-offset="568">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4576272" vertical-offset="1695" max-vertical-offset="2295">
+          <caret line="125" column="32" selection-start-line="125" selection-start-column="32" selection-end-line="125" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
       <provider editor-type-id="android-designer">
@@ -2008,43 +1947,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/nwanvu/example/objectanimator/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="5763" max-vertical-offset="11832">
-          <caret line="352" column="52" selection-start-line="352" selection-start-column="52" selection-end-line="352" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="6834" max-vertical-offset="11628">
+          <caret line="580" column="37" selection-start-line="580" selection-start-column="37" selection-end-line="580" selection-end-column="37" />
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/view_tutorial_man_4.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.67118645" vertical-offset="2272" max-vertical-offset="2754">
-          <caret line="122" column="0" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
-          <folding>
-            <element signature="e#484#506#0" expanded="true" />
-            <element signature="e#542#564#0" expanded="true" />
-            <element signature="e#882#900#0" expanded="true" />
-            <element signature="e#1249#1280#0" expanded="true" />
-            <element signature="e#1394#1412#0" expanded="true" />
-            <element signature="e#1757#1788#0" expanded="true" />
-            <element signature="e#1826#1857#0" expanded="true" />
-            <element signature="e#1971#1989#0" expanded="true" />
-            <element signature="e#2292#2323#0" expanded="true" />
-            <element signature="e#2437#2455#0" expanded="true" />
-            <element signature="e#2831#2849#0" expanded="true" />
-            <element signature="e#3032#3053#0" expanded="true" />
-            <element signature="e#3242#3268#0" expanded="true" />
-            <element signature="e#3382#3400#0" expanded="true" />
-            <element signature="e#3561#3582#0" expanded="true" />
-            <element signature="e#3771#3797#0" expanded="true" />
-            <element signature="e#3911#3929#0" expanded="true" />
-            <element signature="e#4159#4188#0" expanded="true" />
-            <element signature="e#4726#4745#0" expanded="true" />
-            <element signature="e#5289#5308#0" expanded="true" />
-            <element signature="e#5999#6016#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
   </component>

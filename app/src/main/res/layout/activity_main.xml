@@ -1,7 +1,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#ebebeb" >
+    android:background="#ebebeb">
 
     <include layout="@layout/view_tutorial_man_4" />
 
@@ -26,7 +26,7 @@
         android:layout_margin="20dp"
         android:checkedButton="@+id/cb_w1"
         android:clickable="false"
-        android:orientation="horizontal" >
+        android:orientation="horizontal">
 
         <RadioButton
             android:id="@+id/cb_w1"
@@ -73,4 +73,13 @@
         android:text="play"
         android:visibility="gone" />
 
+    <ImageView
+        android:id="@+id/btnAbout"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:layout_alignParentRight="true"
+        android:layout_margin="10dp"
+        android:background="#ccc"
+        android:padding="2dp"
+        android:src="@android:drawable/ic_dialog_info" />
 </RelativeLayout>
