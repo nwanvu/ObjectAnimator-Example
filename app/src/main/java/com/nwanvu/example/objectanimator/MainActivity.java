@@ -13,12 +13,17 @@ import android.view.View;
 import android.widget.RadioGroup;
 import android.widget.RelativeLayout;
 
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
+
 public class MainActivity extends Activity implements View.OnTouchListener{
 
     private static final float MIN_VELOCITY = 200;
     int currentPage = 1;
     private boolean touchAllow = true;
     VelocityTracker velocityTracker = null;
+    InterstitialAd mInterstitialAd;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -331,6 +336,16 @@ public class MainActivity extends Activity implements View.OnTouchListener{
                 cbIndicator.check(R.id.cb_w1);
             }
         }, 100);
+
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId("ca-app-pub-7209317417366395/6753504265");
+        requestNewInterstitial();
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdClosed() {
+                finish();
+            }
+        });
     }
 
     private void selectedPage(int page) {
@@ -597,6 +612,24 @@ public class MainActivity extends Activity implements View.OnTouchListener{
                 startActivity(new Intent(MainActivity.this, AboutActivity.class));
             }
         });
+    }
+
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
+        if (mInterstitialAd.isLoaded()) {
+            mInterstitialAd.show();
+        } else {
+            finish();
+        }
+    }
+
+    private void requestNewInterstitial() {
+        AdRequest adRequest = new AdRequest.Builder()
+                .addTestDevice("B6C0F8A598FF5913279921F8D99221AB") // LG G3
+                .addTestDevice("3F5FD39C8451BA21C3E3100EE39AB5CA") // Geny Nexus 4
+                .build();
+        mInterstitialAd.loadAd(adRequest);
     }
 
     private AnimatorSet w1_img3_in;
